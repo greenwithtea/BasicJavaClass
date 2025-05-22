@@ -1,7 +1,7 @@
 # Basic Java Class
-2022 Spring term Basic Java Programming Class
-
 2022년 1학기 Java프로그래밍기초 수업 실습물
+
+2022 Spring term Basic Java Programming Class
 
 ## 🛠️사용 기술 | Technologies Used
 - Java
